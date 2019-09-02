@@ -1,10 +1,10 @@
-# skeleton-python-library #
+# restore-es-database-from-snapshot #
 
-[![Build Status](https://travis-ci.com/cisagov/skeleton-python-library.svg?branch=develop)](https://travis-ci.com/cisagov/skeleton-python-library)
-[![Coverage Status](https://coveralls.io/repos/github/cisagov/skeleton-python-library/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/skeleton-python-library?branch=develop)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/skeleton-python-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/skeleton-python-library/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/skeleton-python-library.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/skeleton-python-library/context:python)
-[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/skeleton-python-library/develop/badge.svg)](https://snyk.io/test/github/cisagov/skeleton-python-library)
+[![Build Status](https://travis-ci.com/cisagov/restore-es-database-from-snapshot.svg?branch=develop)](https://travis-ci.com/cisagov/restore-es-database-from-snapshot)
+[![Coverage Status](https://coveralls.io/repos/github/cisagov/restore-es-database-from-snapshot/badge.svg?branch=develop)](https://coveralls.io/github/cisagov/restore-es-database-from-snapshot?branch=develop)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/cisagov/restore-es-database-from-snapshot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/restore-es-database-from-snapshot/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/cisagov/restore-es-database-from-snapshot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/cisagov/restore-es-database-from-snapshot/context:python)
+[![Known Vulnerabilities](https://snyk.io/test/github/cisagov/restore-es-database-from-snapshot/develop/badge.svg)](https://snyk.io/test/github/cisagov/restore-es-database-from-snapshot)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) Python library GitHub
